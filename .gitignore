@@ -1,0 +1,5 @@
+# venv
+.venv
+
+# script used to get Strava data - need to fix first
+strava_api.py
